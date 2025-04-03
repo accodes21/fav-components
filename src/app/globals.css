@@ -31,3 +31,15 @@ body {
     text-wrap: balance;
   }
 }
+
+/* input {
+  height: 2rem;
+  width: 2rem;
+  font-size: 1.5rem;
+  text-align: center;
+  margin-left: 0.5rem;
+}
+
+input:focus {
+  border: 1px solid blue;
+} */
